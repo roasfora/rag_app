@@ -1,6 +1,10 @@
 
 # 🧠 RAG App 
 
+<p align="center">
+  <img src="doc/app_screen.png" alt="APP" width="600"/>
+</p>
+
 This is a **Retrieval-Augmented Generation (RAG)** application built using [LangChain](https://github.com/langchain-ai/langchain), [Hugging Face Transformers](https://huggingface.co/docs/transformers/index), and [Streamlit](https://streamlit.io/). It allows you to upload a PDF (e.g., sustainability reports) and ask natural language questions about its contents.
 
 > ✅ Designed for **CPU-only machines** using lightweight models like `google/flan-t5-small`.
